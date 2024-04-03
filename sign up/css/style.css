@@ -1,0 +1,16 @@
+header {
+    background-color: #24353F;
+}
+
+header .container {
+    background-color: #24353F;
+
+}
+
+input.my-input {
+    border-radius: 2px;
+}
+
+.content{
+    box-shadow: 0px 0px 40px 1px black;
+}
